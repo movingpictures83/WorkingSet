@@ -1,0 +1,2 @@
+Prefix plugins/WorkingSet/example/
+Plugin WorkingSet inputfile none outputfile output.txt
